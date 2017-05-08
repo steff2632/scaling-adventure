@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.9.0-6c866ddce3a63894c3f551207665c2df94b77b88.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.1.0-160c67371f7b64cc6f6084494153f650ea8c9f38.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/1582f44b835898df37215bc8c29b85a9167cac52/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-24298d42b486af729bd871a533b2d08742058ef1.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-5ea4b7761e5bdce388fb7fadff78e7ed714304a0.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.0"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-60531235e13f1a371dc359dedd82620d7eb4b56a.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/34a6ab0b88526978d1f30673df57c06658fb2e6f/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e6d6c5cc7ff301ecb7a878e77db5a5fa3dffa449.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        revision="25.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.4.2-d1b131caeea40591a860c6b906823e44c498779b.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        revision="25.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.1.5-b9ae798eb0caed21e729de060efed4a7f40850d8.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/7333ad434a071425a76f1e56364fc33ee7bc4b26/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-88d39a3c439ad50bee1d158bf0920fa8bf7e28df.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/f03b4bcec68fd5173f19f32f58028fde18745ffd/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-93860e0bde8d7029069485da670a0c41068b44b3.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/bd928357207cda8dcd0deceac1af991c5592fa93/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5d2ac2bda1ba413020f8aad31accb5504f9ab533.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/5e70313e1b0ca7a3d06c62a36351aba854818b02/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9190d18fcfbd511a725d62385bf7fc7df08102d8.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/376a96cb13a9fe1b5a74906ed32e2b920f070617/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4600430852287b933639860c44c3b6cde1366ca1.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.2/d99260c62d97beae99ed1f779a35a9bf48c094a6/logging-interceptor-3.4.2.jar"
+        revision="25.0.0"
+        sha1="d99260c62d97beae99ed1f779a35a9bf48c094a6">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logging-interceptor-3.4.2-f9c285565475c6940575f6e5a64b90767d23705f.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/fc12d7d1601f5da78334823c035bbd7124da4500/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7b305713b8d7fe4be966ecc48bcb62c9f8548e17.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/7333ad434a071425a76f1e56364fc33ee7bc4b26/output/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-414f75bc81b2d31bfad7c8a4bc9d80d7c9f9a0d4.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/559ceb51a357562e3a725fe1a58bc1fed056bdcc/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-78e8c7a5b7a06949ba5595f09591cba58c217b15.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/adapter-rxjava-2.1.0-ae87c8cbd4e543276e90d3451a952f09abbcbe93.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.1.0-aceb392af78e0405cd4a1fe6179b478a241f3545.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/butterknife-annotations-8.4.0-c15b9de23bc38f7cd5cf278b590e38ab57a13562.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.0.0-9c850b8aa2d3cf1249cd258b998df8a8e97d33e0.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/bd928357207cda8dcd0deceac1af991c5592fa93/output/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-a5f2bc1f931b02f7b8b4a2b61aa61e1cb6494a57.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-6f7030f37878f34c366d9c2607e1659a16385eba.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/c6fa4d2490dc3bbe7fcc2a9b1e02a711a1b59bc1/output/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-ca6b97849590c69913a808d57d451d94d50e51b7.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.7/f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb/dagger-2.7.jar"
+        revision="25.0.0"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-2.7-5e46171e76cbdf56408bc311924f427b70a1c175.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/376a96cb13a9fe1b5a74906ed32e2b920f070617/output/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-11fdc0cf5cb6aa8c516a7d24b755f89e8a55b4fa.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/1582f44b835898df37215bc8c29b85a9167cac52/output/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-c27c9008b1f6d741ad046a5eebe7e39f1c3abe3e.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/c6fa4d2490dc3bbe7fcc2a9b1e02a711a1b59bc1/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b892c4e1f1d3bb119aa22f6de0223ad6d0e773d6.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/javax.inject-1-b7d18ce33062528e71e95fbd6230deec83499cdb.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/bdd7d9e9177e12914db8886f2511908f857a25a3/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-995f035246221395398db8a372d4a2da853ea573.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/aa65fa8416dabbdc18f021a9330461704c9117e1/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-68fe859cb70eeb2a5edbbe712a409264eeaa57c7.jar" />
+    </item>
+    <item
+        jar="/Users/stefanmay/.android/build-cache/7995d0dc25d79034703e1b8e3e7ed5071257732e/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/stefanmay/StudioProjects/ScalingAdventure/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9f84eae1d3f5ed028a9a0c547bd49cf07f574f7a.jar" />
+    </item>
+
+</items>

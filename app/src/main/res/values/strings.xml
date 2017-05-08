@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scaling Adventure</string>
+    <string name="producer">Producer</string>
+    <string name="director">Director</string>
+    <string name="release_date">Release date</string>
+    <string name="characters">Characters</string>
+</resources>
